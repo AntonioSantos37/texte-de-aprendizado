@@ -1,0 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+.a1{width: 80px;height: 80px; border: 5px solid orange; border-radius: 50%;}
+.a{width: 150px;height: 75px; border: 5px solid orange;}
+.a12{width: 100%; height: 100%;}
+header{background-color: rgb(37, 37, 37);}
+body{font-family: "Open Sans", sans-serif; color: aliceblue;
+    background-image: linear-gradient(rgb(39, 40, 141), rgb(66, 82, 168));
+}
+nav{display: flex;align-items: flex-end;}
+a{color: aliceblue;}
+ul{list-style-type: none;}
